@@ -247,4 +247,4 @@ $(function () {
   }
 
   initPlayer();
-}); 
+});
