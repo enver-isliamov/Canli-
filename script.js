@@ -38,19 +38,11 @@ $(function () {
     ],
     trackNames = [
       "by Enver Isliamov",
-      "by Enver Isliamov",
-      "by Enver Isliamov",
-      "by Enver Isliamov",
-      "by Enver Isliamov"
-    ],
+        ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
       "https://c28.radioboss.fm:18047/stream",
-      "https://c28.radioboss.fm:18047/stream",
-      "https://c28.radioboss.fm:18047/stream",
-      "https://c28.radioboss.fm:18047/stream",
-      "https://c28.radioboss.fm:18047/stream"
-    ],
+      ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
     currIndex = -1;
