@@ -31,11 +31,7 @@ $(function () {
     tFlag = false,
     albums = [
       "Canli Radio Online",
-      "Canli Radio Online",
-      "Canli Radio Online",
-      "Canli Radio Online",
-      "Canli Radio Online"
-    ],
+         ],
     trackNames = [
       "by Enver Isliamov",
         ],
