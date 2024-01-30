@@ -24,12 +24,12 @@ body {
   right: -30px;
   bottom: -30px;
   left: -30px;
-  background-image: url("https://i.pinimg.com/originals/30/b4/10/30b410537dac7bb498107ad94fd2fd0f.gif");
+  background-image: url("https://i.pinimg.com/originals/2a/8d/7e/2a8d7e94ac37d4ca3ecdabff547d99e5.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50%;
   filter: blur(40px);
-  -webkit-filter: blur(40px);
+  -webkit-filter: blur(20px);
   z-index: 1;
 }
 
